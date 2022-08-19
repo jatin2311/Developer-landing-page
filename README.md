@@ -17,7 +17,7 @@
 #### Time-Taken
 - it takes almost 5-6 hours to complete this project.
 ---
-[visit This Website]((https://developer-landingp.netlify.app/)
+[visit This Website](https://developer-landingp.netlify.app/)
 ---
 
                                                  By_Jatin Agrahari
